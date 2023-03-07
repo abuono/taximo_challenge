@@ -1,2 +1,5 @@
 # taximo_challenge
-Reto para vacante desarrollador Full-Stack
+### Reto para vacante desarrollador Full-Stack
+
+Ejercicio basado en:
+https://www.hackerrank.com/challenges/synchronous-shopping/problem
